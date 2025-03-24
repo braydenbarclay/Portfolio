@@ -1,0 +1,15 @@
+/* CSS Document */
+
+body{font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";}
+
+
+  .slider {
+      width: 100%;
+      max-width: 600px;
+      margin: auto;
+  }
+  .slider img {
+      width: 100%;
+      height: auto;
+      border-radius: 10px;
+  }
