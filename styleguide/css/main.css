@@ -1,0 +1,59 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Libre+Bodoni:ital,wght@0,400..700;1,400..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";}
+
+
+
+
+
+
+h1{
+	font-family: "Gill Sans MT", sans-serif;
+	font-size:2rem;
+	font-weight:bolder;
+}
+
+h3{
+  font-family: "Lato", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+	font-size:1.5rem;
+}
+
+p{
+	font-family: "Libre Bodoni", serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style:normal;
+	font-size:1rem;
+
+}
+
+.title{
+	border-bottom:1px solid black;
+/*	text-decoration-line:underline;*/
+}
+
+.container{
+	display: flex;
+	justify-content:space-around;
+	max-width:100%;
+	}
+.box {
+  width:100%;
+  margin-top:25px;
+}
+
+  .slider {
+      width: 900px;
+      max-width: 600px;
+      margin: auto;
+	  justify-content: center;
+  }
+  .slider img {
+      width: 100%;
+      height: auto;
+      border-radius: 10px;
+  }
