@@ -5,4 +5,4 @@ baseurl: "/Portfolio"
 
 collections:
 design:
-		output: true
+output: true
