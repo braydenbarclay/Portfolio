@@ -4,5 +4,5 @@ email: braydenb2003@hotmail.com
 baseurl: "/Portfolio"
 
 collections:
-	design:
+design:
 		output: true
