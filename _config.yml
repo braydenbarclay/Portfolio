@@ -6,8 +6,3 @@ baseurl: "/Portfolio"
 collections:
 	design:
 		output: true
-		
-	photoshop:
-	output: true
-
-instagram:
