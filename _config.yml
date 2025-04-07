@@ -3,4 +3,11 @@ name: Brayden Barclay
 email: braydenb2003@hotmail.com
 baseurl: "/Portfolio"
 
+collections:
+	design:
+		output: true
+		
+	photoshop:
+	output: true
+
 instagram:
