@@ -6,3 +6,4 @@ baseurl: "/Portfolio"
 collections:
 design:
 output: true
+permalink: /:collection/:path/

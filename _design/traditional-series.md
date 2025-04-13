@@ -2,7 +2,8 @@
 title: "Traditional Series"
 tools: [Pencil, Paper]
 description: "A unique traditional pen and paper style series."
-layout: default
+layout:
+permalink:
 ---
 
 ## Project Overview
