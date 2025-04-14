@@ -1,8 +1,8 @@
 ---
-title: "Photography Series"
+title: "Car Photography"
 tools: [Nikon D90, 18-55mm Lens, Polarized lens cover]
-description: "A unique approach to Photography in various forms."
-tags:
+description: "Unique photographs of cars"
+tags: [car]
 layout:
 permalink:
 ---
