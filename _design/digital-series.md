@@ -3,6 +3,7 @@ title: "Digital Series"
 tools: [Photoshop, InDesign, Illustrator]
 description: "A mixed genre of media presented in forms of digital art"
 layout:
+permalink:
 ---
 
 ## Project Overview
